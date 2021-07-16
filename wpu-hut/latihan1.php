@@ -3,7 +3,7 @@ $data = file_get_contents('./data/pizza.json');
 $menu = json_decode($data, true);
 
 $menu = $menu["menu"];
-echo $menu[0]["nama"]
+
 ?>
 
 <!doctype html>
