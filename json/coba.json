@@ -1,0 +1,26 @@
+[
+    {
+    "nama"  : "Gada Prima",
+    "umur"  : 21,
+    "hobby" : [
+        "gaming",
+        "coding"
+        ],
+    "makanan & minuman favorit" : {
+        "makanan favorit" : "Bakso",
+        "minuman favorit" : "Susu"
+        }
+    },
+    {
+    "nama"  : "Gada Prima",
+    "umur"  : 21,
+    "hobby" : [
+        "gaming",
+        "coding"
+        ],
+    "makanan & minuman favorit" : {
+            "makanan favorit" : "Bakso",
+            "minuman favorit" : "Susu"
+            }
+    }
+]
